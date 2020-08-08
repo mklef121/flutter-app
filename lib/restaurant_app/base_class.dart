@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'banner.dart';
+
 class HomePage extends StatelessWidget{
 
   @override
@@ -16,7 +18,8 @@ class HomePage extends StatelessWidget{
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.center,
               children: <Widget>[
-                navRow()
+                navRow(),
+                new BannerWidget()
               ],
               ),
           )
