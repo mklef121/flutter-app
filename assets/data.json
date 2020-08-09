@@ -1,0 +1,44 @@
+[
+    {
+      "placeImage": "assets/images/food-1.webp",
+      "placeName": "The Hawkers",
+      "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+      "minOrder": 20
+    },
+    {
+      "placeImage": "assets/images/food-2.webp",
+      "placeName": "Flipping Noodles",
+      "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+      "minOrder": 50
+    },
+    {
+      "placeImage": "assets/images/food-3.jpg",
+      "placeName": "Pizza Hut",
+      "placeItems": ["Pizza","Chinese","Fast Food","Italian","Juice"],
+      "minOrder": 20
+    },
+    {
+      "placeImage": "assets/images/food-4.jpg",
+      "placeName": "Blue Hill",
+      "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+      "minOrder": 40
+    },
+    {
+        "placeImage": "assets/images/food-1.webp",
+        "placeName": "The Hawkers",
+        "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+        "minOrder": 20
+      },
+      {
+        "placeImage": "assets/images/food-2.webp",
+        "placeName": "Flipping Noodles",
+        "placeItems": ["Burgers","Chinese","Fast Food","Italian","Juice"],
+        "minOrder": 50
+      },
+      {
+        "placeImage": "assets/images/food-3.jpg",
+        "placeName": "Pizza Hut",
+        "placeItems": ["Pizza","Chinese","Fast Food","Italian","Juice"],
+        "minOrder": 20
+      }
+  ]
